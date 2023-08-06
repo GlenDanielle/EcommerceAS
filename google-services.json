@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731877500427",
+    "project_id": "abujubujucoconut-4efe2",
+    "storage_bucket": "abujubujucoconut-4efe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731877500427:android:53445ebd82e74df437490e",
+        "android_client_info": {
+          "package_name": "com.example.gojolianna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731877500427-caovhmocq7nc7mkphe22ldcer1pssj5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr1A4tMFFhC6Jc4poxtUmN0fcjzugNdLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731877500427-caovhmocq7nc7mkphe22ldcer1pssj5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
